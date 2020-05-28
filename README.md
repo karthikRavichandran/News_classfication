@@ -1,5 +1,6 @@
 # News_classfication
-Simple sentiment analysis on stock NEWS 
+Files: news_clf.py : python file, news_clf.ipynb
+Simple sentiment analysis on stock NEWS
 This file demonstrate my ability to apply sequential deep learning techniques on real life problem.
 The flow of the code as follows:
   1) Loding data set: 
