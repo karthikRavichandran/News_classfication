@@ -1,7 +1,7 @@
 # News_classfication
 Files: news_clf.py : python file, news_clf.ipynb.
 Simple sentiment analysis on stock NEWS.
-This file demonstrate my ability to apply sequential deep learning techniques on real life problem.
+This code demonstrates a simple application of LSTM and methods to apply sequential deep learning techniques on real life problems.
 The flow of the code as follows:
   1) Loding data set: 
                     1) News sentiment data set downloaded from kaggle link
@@ -14,7 +14,7 @@ The flow of the code as follows:
   6) Creating embedding layer and transferring the pretrained weights from glove(to be added in first layer of the model)
   7) Creating a BiLSTM based architecture.(monitoring f1 score and save best model based on val_f1)
   8) GD optimization algo used : ADAM
-  9) Tesing on Test set
+  9) Testing on Test set
   10) Testing on NEWS sentance
   
   
